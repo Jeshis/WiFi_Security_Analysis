@@ -67,6 +67,7 @@ def get_password(ssid):
         return None
 
 # Updates the info displayed in GUI
+
 def update_info():
     """
     Main function to fetch all WiFi data and store it.
